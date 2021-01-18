@@ -1,6 +1,6 @@
 # Calculator
 Calculator package
-# Introduction
+## Introduction
 Calculator package contains 2 modules - calculator (code with main aspects of OOP) and test (pytest).
     Calculator is able to perform these actions:
     
@@ -12,10 +12,10 @@ Calculator package contains 2 modules - calculator (code with main aspects of OO
     
     * Reset memory
     
- # Technologies
+ ## Technologies
  Python 3.x
  
- # Launch
+ ## Launch
  Install the package into the Google Collab's env using pip:
  
     * ! pip install git+https://github.com/gieeedreee/calculator
