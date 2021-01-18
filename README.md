@@ -30,5 +30,5 @@ For testing (working in the notebooks) it is need to install the package using p
 
     import pytest
 
-   And add ### %%pytest at every cell that contains test.
+   And add %%pytest at every cell that contains test.
     
