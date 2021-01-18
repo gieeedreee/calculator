@@ -4,13 +4,13 @@ Calculator package
 Calculator package contains 2 modules - calculator (code with main aspects of OOP) and test (pytest).
     Calculator is able to perform these actions:
     
-    * Addition / Subtraction
+   * Addition / Subtraction
     
-    * Multiplication / Division
+   * Multiplication / Division
     
-    * Take (n) root of number
+   * Take (n) root of number
     
-    * Reset memory
+   * Reset memory
     
  ## Technologies
  Python 3.x
@@ -30,5 +30,5 @@ For testing (working in the notebooks) it is need to install the package using p
 
     import pytest
 
-    And add %%pytest at every cell that contains test.
+   And add ### %%pytest at every cell that contains test.
     
