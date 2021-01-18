@@ -12,10 +12,10 @@ Calculator package
     
    * Reset memory
    
-   Starting value for this calculator is 0. 
-   It means that each of actions return the starting value and add/ subtract/ multiply/ divided/ take (n) root of provided number. 
-   Also calculator have its own memory, meaning it manipulates its starting number 0 until it is reseted. 
-   
+   Calculator have its own memory, meaning it manipulates its starting number 0 until it is reseted. 
+   It means that each of actions return the last 'starting value' and continues to perform actions with that value: add/ subtract/ multiply/ divided/ take (n) root of provided number. 
+      
+   It is necessary to pay attention to division action - division of zero is not possible. So result is last 'starting value' in this case.
     
  ## Technologies
  Python 3.x
