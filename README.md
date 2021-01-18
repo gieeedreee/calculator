@@ -1,8 +1,8 @@
 # Calculator
 Calculator package
+
 ## Introduction
-Calculator package contains 2 modules - calculator (code with main aspects of OOP) and test (pytest).
-    Calculator is able to perform these actions:
+   Calculator is able to perform these actions:
     
    * Addition / Subtraction
     
@@ -11,6 +11,11 @@ Calculator package contains 2 modules - calculator (code with main aspects of OO
    * Take (n) root of number
     
    * Reset memory
+   
+   Starting value for this calculator is 0. 
+   It means that each of actions return the starting value and add/ subtract/ multiply/ divided/ take (n) root of provided number. 
+   Also calculator have its own memory, meaning it manipulates its starting number 0 until it is reseted. 
+   
     
  ## Technologies
  Python 3.x
